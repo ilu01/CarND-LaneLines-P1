@@ -18,8 +18,8 @@ The goals / steps of this project are the following:
 [image3]: ./images_writeup/grayscale_blur.png "Grayscale Blured"
 [image4]: ./images_writeup/canny.png "Canny Edges"
 [image5]: ./images_writeup/canny_ROI.png "Canny Edges within ROI"
-[image6]: ./images_writeup/hough_lines.jpg "Hough Lines"
-[image7]: ./images_writeup/hough_lines_post.jpg "Hough Lines with Post Processing"
+[image6]: ./images_writeup/hough_lines.png "Hough Lines"
+[image7]: ./images_writeup/hough_lines_post.png "Hough Lines with Post Processing"
 
 ---
 
