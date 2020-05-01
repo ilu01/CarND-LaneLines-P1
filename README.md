@@ -1,3 +1,8 @@
+# My solution for this project can be found [here](https://github.com/ilu01/CarND-LaneLines-P1/blob/master/P1.ipynb)
+
+This Readme and all other files besides the one linked above are directly forked from Udacity repo.
+
+
 # **Finding Lane Lines on the Road** 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
